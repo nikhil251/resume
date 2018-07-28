@@ -1,0 +1,44 @@
+
+{
+   "details":{
+    "name":"nikki",
+    "image":"person.png",
+    "phone":"987798975",
+    "email":"nkki@gmail.com"
+   },
+   "education":[
+   	{
+   		"course":"B.tech(CSE)",
+   		"college":"MIC college",
+   		"per":"78%"
+   	    },
+   	    {
+   		"course":"Intermediate",
+   		"college":"siddhartha college",
+   		"per":"78%"
+   	    },
+   	    {
+   		"course":"Ssc",
+   		"college":"Sri siddhartha public school",
+   		"per":"78%"
+   	    }
+   	    ],
+   	"skills":[
+   		{
+   			"title":"programming languages",
+   			"output":[
+            "c","c++","java","python"
+        ]   			
+   	},    
+    {
+         "title":"operating system",
+          "output":[
+          	"windows","linux","mac"
+          ]
+        }
+    ],    
+     "carrier":
+     {
+      "co":"I want to be a CRICKETER.it is difficult but iam trying hard"
+     }
+}
